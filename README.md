@@ -1,7 +1,9 @@
-![It's Jobvious](thumbnail_logo.svg)
+<p align="center">
+<img src="thumbnail_logo.svg" alt="It's Jobvious" />
+</p>
 
 <div align='center'>
-  
+
 <a href='https://github.com/Jobvious/app/releases'>
   
 <img src='https://img.shields.io/github/v/release/Jobvious/app?color=%23FDD835&label=version&style=for-the-badge'>
