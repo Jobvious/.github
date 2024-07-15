@@ -40,7 +40,7 @@
 
 ### The Jobvious app is available for download! 🥳 🚀
 
-- iOS/macOS: Search for "well: reboot your mindset" on the [iOS app store](https://apps.apple.com/us/app/jobvious/id6451385463).
+- iOS/macOS: Search for "Jobvious" on the [iOS app store](https://apps.apple.com/us/app/jobvious/id6451385463).
 - Web: Visit [https://platform.itsjobvious.com/](https://platform.itsjobvious.com/) it offers native-like functionality!
 - Android: [Google Play store](https://play.google.com/store/apps/details?id=com.splitreef.jobviouslive&pcampaignid=web_share)
 
