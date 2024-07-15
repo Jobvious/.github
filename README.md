@@ -2,6 +2,8 @@
 <img src="thumbnail_logo.svg" alt="It's Jobvious" />
 </p>
 
+<br/>
+
 <div align='center'>
 
 <a href='https://github.com/Jobvious/app/releases'>
